@@ -267,7 +267,7 @@
     },
     {
       "id": 5,
-      "price": "2 572 000",
+      "price": "830 000",
       "category": "smart watches",
       "images": [
         "https://olcha.uz/image/700x700/products/2022-09-14/umnye-chasy-xiaomi-mi-band-7-pro-118299-0.jpeg",
@@ -275,23 +275,58 @@
         "https://olcha.uz/image/700x700/products/2022-09-14/umnye-chasy-xiaomi-mi-band-7-pro-chernyy-118300-0.jpeg"
       ],
       "rating": {
-        "rate": 4.7,
-        "count": 1507
+        "rate": 4.5,
+        "count": 1207
       },
       "ru": {
-        "title": "Умные часы Samsung Galaxy Watch5",
-        "description": "Познакомьтесь с вашим новым тренером по сну Advanced Sleep Coaching анализирует модели сна и создает 5-недельную программу с полезными советами и контрольными списками для улучшения привычек сна. Биоактивный датчик IC Усовершенствованный изогнутый датчик приближается к вашей коже для более точных показаний частоты сердечных сокращений и состояния здоровья.Датчик анализа биоэлектрического импеданса (BIA) Получите всю статистику, чтобы быть лучшим. Датчик BIA считывает жировые отложения, скелетные мышцы, воду в организме, скорость основного обмена и многое другое.Автоматическое отслеживание тренировок автоматически распознает многие популярные виды деятельности, такие как бег и плавание, всего за несколько минут. Вы также можете вручную отслеживать более 90 упражнений, от интенсивных тренировок HIIT до расслабляющих занятий йогой.Заряжено до 45% в 30мин Оставайтесь под напряжением в самые загруженные дни благодаря улучшенному аккумулятору и быстрой зарядке.Стекло создано для того, чтобы быть активным Стекло из сапфирового стекла в 1,6 раза прочнее , чтобы выдержать испытание самыми тяжелыми днями.",
+        "title": "Умные часы Xiaomi Mi Band 7 Pro",
+        "description": "Smart Band 7 Pro – стильный фитнес-браслет от Xiaomi, который вполне может заменить умные часы. Устройство оснащено прямоугольным экраном, тонким корпусом, независимой навигационной системой и многофункциональным мониторингом здоровья. Поддерживается автоматическая настройка яркости экрана, голосовой помощник и NFC. Mi Band 7 Pro отлично подходит для людей с активным образом жизни.",
         "characteristics": {
-          "Емкость аккумулятора": "410 мА*ч",
-          "Беспроводная зарядка": "Есть",
-          "Вес": "33.5 г",
-          "Объем встроенной памяти": "16 Гб",
-          "Объем оперативной памяти": "1.50 Гб",
-          "Материал корпуса": "Алюминий",
-          "Bluetooth": "Bluetooth 5.2",
-          "WiFi ": "Есть",
-          "NFC": "Есть",
-          "Разрешение экрана": "450x450"
+          "Материал браслета/ремешка": "Силикон",
+          "Емкость аккумулятора": "230mAh",
+          "Приложение": "Mi Fit",
+          "Защита от воды": "5 ATM",
+          "Тип": "Умный браслет",
+          "GPS": "Есть",
+          "Будильник": "Есть",
+          "Шагомер": "Есть",
+          "Bluetooth": "Есть",
+          "Экран": "Сенсорный",
+          "Тип стекла": "устойчивое к царапинам"
+        }
+      },
+      "uz": {
+        "title": "Aqlli soat Xiaomi Mi Band 7 Pro",
+        "description": "Smart Band 7 Pro-bu Xiaomi-dan zamonaviy fitness bilaguzuk bo'lib, u aqlli soatni almashtirishi mumkin. Qurilma to'rtburchaklar ekran, ingichka korpus, mustaqil navigatsiya tizimi va ko'p funktsiyali sog'liqni saqlash monitoringi bilan jihozlangan. Ekran yorqinligini avtomatik sozlash, ovozli yordamchi va NFC qo'llab-quvvatlanadi. Mi Band 7 Pro faol turmush tarziga ega odamlar uchun juda yaxshi.",
+        "characteristics": {
+          "Braslet materiali": "Selikon",
+          "Batareya quvvati": "230mAh",
+          "Dastur": "Mi Fit",
+          "Suvga chidamliligi": "5 ATM",
+          "Turi": "Aqilli braslet",
+          "GPS": "Mavjud",
+          "Budilnik": "Mavjud",
+          "Qadam o'lchagich": "Mavjud",
+          "Bluetooth": "Mavjud",
+          "Ekran": "Sensorlik",
+          "Oyna turi": "Tirnalishlarga chidamlik"
+        }
+      },
+      "en": {
+        "title": "Xiaomi Mi Band 7 Pro Smart Watch",
+        "description": "Smart Band 7 Pro is a stylish fitness bracelet from Xiaomi, which may well replace a smart watch. The device is equipped with a rectangular screen, a thin body, an independent navigation system and multifunctional health monitoring. Automatic screen brightness adjustment, voice assistant and NFC are supported. Mi Band 7 Pro is great for people with an active lifestyle.",
+        "characteristics": {
+          "Bracelet/Strap Material": "Silicone",
+          "Battery capacity": "230mAh",
+          "Application": "Mi Fit",
+          "Water protection": "5 ATM",
+          "Type": "Умный браслет",
+          "GPS": "Exist",
+          "Alarm": "Exist",
+          "Pedometer": "Exist",
+          "Bluetooth": "Exist",
+          "Screen": "Touch",
+          "Type of glass": "Scratch resistant"
         }
       }
     },
