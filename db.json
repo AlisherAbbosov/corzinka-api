@@ -1,0 +1,362 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "electronics",
+      "images": [
+        "https://olcha.uz/image/700x700/products/2021-01-28/noutbuk-apple-macbook-pro-13-m1-2020-8gb256gb-grey-21001-0.jpeg",
+        "https://olcha.uz/image/700x700/products/2021-01-28/noutbuk-apple-macbook-pro-13-m1-2020-8gb256gb-grey-21001-1.jpeg"
+      ],
+      "rating": {
+        "rate": 5.0,
+        "count": 203
+      },
+      "price": "15 400 000",
+      "ru": {
+        "title": "Ноутбук Apple MacBook Pro 13 M1 2020 8GB/256GB Grey",
+        "description": "Поразительно, но система на чипе Apple M1 вмещает 16 миллиардов транзисторов и объединяет центральный и графический процессоры, систему Neural Engine, контроллеры ввода-вывода и множество других компонентов. Чип Apple M1 позволяет использовать на Mac уникальные технологии и обеспечивает невероятную производи­тельность в сочетании с лучшей в отрасли энер­го­эф­фек­тив­но­стью. Это не просто ещё один шаг для Mac — это принци­пиально новый уровень возможностей. С чипом M1 MacBook Pro становится поразительно быстрым и мощным. 8‑ядерный процессор легко справляется со сложнейшими задачами и большой нагрузкой: его производительность до 2,8 раза выше, чем у процессоров предыдущего поколения, и при этом он крайне экономно расходует заряд аккумулятора. 8‑ядерный графический процессор в чипе M1 — самый мощный из всех, когда-либо созданных Apple. И самый быстрый в мире интегри­ро­ван­ный графический процессор для персонального компьютера. Благодаря ему скорость обработки графики выросла в 5 раз. 16‑ядерная система Neural Engine. Вдумчиво и быстро. Машинное обучение обеспечивает невероятную скорость работы и широкие возможности автоматизации при анализе видео, распознавании голоса, обработке изображений и выполнении многих других задач. Чип M1 оснащён 16‑ядерной системой Neural Engine и поддерживает множество технологий на базе машинного обучения, поэтому MacBook Pro просто нет равных.",
+        "characteristics": {
+          "Экран": "13.3 дюймов, 2560x1600, широкоформатный",
+          "Видеокарта": "встроенная, Apple graphics 8-core",
+          "Датчик Touch ID": "Есть",
+          "Общий объем накопителей": "256GB SSD",
+          "Размеры": "304.1x212.4x16.1 мм ",
+          "Веб-камера": "HD‑камера FaceTime 720p",
+          "Количество ядер процессора": "8 ядер",
+          "Разрешение дисплея": "2560x1600",
+          " Установленная ОС": "macOS",
+          "Процессор": "M1 Apple SoC",
+          "Тип матрицы экрана": "IPS",
+          "Вес": "1.47 кг",
+          "Диагональ дисплея": "13.3",
+          "Цвет": "Grey",
+          "Подсветка клавиатуры": "Есть",
+          "Отпечаток пальца": "Есть",
+          "Аккумулятор": "Li-Pol 58.2 Вт⋅ч "
+        }
+      },
+      "uz": {
+        "title": "Noutbuk Apple MacBook Pro 13 M1 2020 8GB/256GB Grey",
+        "description": "Ajablanarlisi shundaki, Apple M1-chip tizimi 16 milliard tranzistorga ega va protsessor, grafik protsessor, neyron dvigatel, kiritish-chiqarish kontrollerlari va boshqa ko'plab komponentlarni birlashtiradi. Apple M1 chipi Macga noyob texnologiyalarni olib keladi va sanoatning yetakchi energiya samaradorligi bilan ajoyib ishlashni ta'minlaydi. Bu Mac uchun navbatdagi qadam emas - bu imkoniyatlarning butunlay yangi darajasi. M1 chipi bilan MacBook Pro hayratlanarli darajada tez va kuchli bo'ladi. 8 yadroli protsessor oldingi avlod protsessorlariga qaraganda 2,8 baravar ko'proq unumdorlik bilan eng qiyin vazifalar va og'ir ish yuklarini osonlikcha hal qiladi va energiya tejamkorligi bilan ajralib turadi. M1 chipidagi 8 yadroli GPU Apple tomonidan yaratilgan eng kuchli hisoblanadi. Va shaxsiy kompyuter uchun dunyodagi eng tez o'rnatilgan grafik protsessor. Uning sharofati bilan grafiklarni qayta ishlash tezligi 5 barobar oshdi. 16 yadroli neyron dvigatel. O'ychan va tez. Mashina o'rganish video tahlili, ovozni aniqlash, tasvirni qayta ishlash va boshqalar uchun ajoyib tezlik va kuchli avtomatlashtirishni ta'minlaydi. M1 chipi 16 yadroli Neyron Dvigatel bilan jihozlangan va mashinani o'rganishga asoslangan ko'plab texnologiyalarni qo'llab-quvvatlaydi, shuning uchun MacBook Pro oddiygina tengi yo'q.",
+        "characteristics": {
+          "Ekran": "13.3 dyuym, 2560x1600, kengi ekranli",
+          "Videokarta": "ornatilgan, Apple graphics 8-core",
+          "Datchik Touch ID": "Mavjud",
+          "Umumiy saqlash xajmi": "256GB SSD",
+          "O‘lchami": "304.1x212.4x16.1 mm ",
+          "Veb-kamera": "HD‑kamera FaceTime 720p",
+          "Protsessor yadrolari soni": "8 yadro",
+          "Displey kengligi": "2560x1600",
+          "O‘rnatilgan Os": "macOS",
+          "Protsessor": "M1 Apple SoC",
+          "Ekran turi": "IPS",
+          "Vazni": "1.47 kg",
+          "Displey diagonali": "13.3",
+          "Rangi": "Grey",
+          "Klaviatura yoritgichi": "Mavjud",
+          "Barmoq izi skaneri": "Mavjud",
+          "Akkumulyator": "Li-Pol 58.2 Вт⋅ч"
+        }
+      },
+      "en": {
+        "title": "Laptop Apple MacBook Pro 13 M1 2020 8GB/256GB Grey",
+        "description": "Amazingly, the system on the Apple M1 chip holds 16 billion transistors and combines central and graphics processors, the Neural Engine system, input-output controllers, and many other components. The Apple M1 chip allows you to use unique technology on Mac and provides incredible performance combined with industry-leading energy-ex-eff-force-dynamic. This is not just another step for Mac - it’s a principled new level of capabilities. With the M1 MacBook Pro chip, it becomes surprisingly fast and powerful. The 8-core processor can easily handle the most complex tasks and heavy loads: its performance up to 2.8 times higher than the processors of the previous generation, and it consumes the battery charge extremely economically. The 8-core graphics processor in the M1 chip is the most powerful ever created by Apple. And the world’s fastest integrated-ro-van graphics processor for a personal computer. Thanks to it, graphics processing speed has increased 5 times. Neural Engine 16. Thoughtful and fast. Machine learning provides incredible speed and extensive automation capabilities in video analysis, voice recognition, image processing and many other tasks. The M1 chip is equipped with a 16-core Neural Engine and supports many machine learning-based technologies, so MacBook Pro is simply unparalleled",
+        "characteristics": {
+          "Screen": "13.3 inch, 2560x1600, large format",
+          "Video card": "installed, Apple graphics 8-core",
+          "Touch ID sensor": "Exist",
+          "Total drive capacity": "256GB SSD",
+          "Size": "304.1x212.4x16.1 mm ",
+          "Webcam": "HD Camera FaceTime 720p",
+          "Number of processor cores ": "8 cores",
+          "Display resolution": "2560x1600",
+          "Established OS": "macOS",
+          "Processor": "M1 Apple SoC",
+          "Screen Matrix Type": "IPS",
+          "Weight": "1.47 kg",
+          "Diagonal display": "13.3",
+          "Color": "Grey",
+          "Keyboard highlighting": "Exist",
+          "Fingerprint": "Mavjud",
+          "Accumulator": "Li-Pol 58.2 Wh"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "price": "13 767 901 сум",
+      "category": "smartphone",
+      "rating": {
+        "rate": 5.0,
+        "count": 203
+      },
+      "images": [
+        "https://olcha.uz/image/700x700/products/2022-07-13/apple-iphone-14-pro-64964-0.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-07-13/apple-iphone-14-pro-64964-1.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-07-13/apple-iphone-14-pro-64964-2.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-07-13/apple-iphone-14-pro-64964-3.jpeg"
+      ],
+
+      "ru": {
+        "title": "Apple iPhone 14 Pro",
+        "description": "Теперь ваш экран блокировки всегда виден, так что вам даже не нужно нажимать на него, чтобы быть в курсе.",
+        "characteristics": {
+          "Цвет": "Silver",
+          "Версия ОС": "iOS 16",
+          "Размеры": "147.5 x 71.5 x 7.85 мм",
+          "NFC": "Есть",
+          "Bluetooth": "5.3",
+          "GPS": "GPS, ГЛОНАСС, BEIDOU, GALILEO, QZSS",
+          "Wi-Fi": "Wi-Fi 802.11ax",
+          "Видеопроцессор": "Apple GPU (5-core graphics)",
+          "Емкость аккумулятора": "3200 mAh"
+        }
+      },
+      "uz": {
+        "title": "Apple iPhone 14 Pro",
+        "description": " Endi qulflangan ekraningiz doim koʻrinib turadi, shuning uchun yangilanib turish uchun uni bosishingiz shart emas. iPhone yuzi pastga yoki cho'ntagiga o'girilsa, batareya quvvatini tejash uchun u o'chadi. Ko'plab yangi xususiyatlar bilan ham batareyaning to'liq ishlash muddati Sizning suratingiz. Sizning shriftingiz. vidjetlaringiz. sizning iPhone.",
+        "characteristics": {
+          "Rangi": "Silver",
+          "Operatsion sistema versiyasi  ": "iOS 16",
+          "O‘lchami": "147.5 x 71.5 x 7.85 мм",
+          "NFC": "Mavjud",
+          "Bluetooth": "5.3",
+          "GPS": "GPS, ГЛОНАСС, BEIDOU, GALILEO, QZSS",
+          "Wi-Fi": "Wi-Fi 802.11ax",
+          "Videoprotsessor": "Apple GPU (5-core graphics)",
+          "Akkumulyator sig’imi": "3200 mAh"
+        }
+      },
+      "en": {
+        "title": "Apple iPhone 14 Pro",
+        "description": "Now your lock screen is always visible, so you don’t even have to click on it to be aware. When the iPhone is flipped face down or is in the pocket, it is turned off to save battery charge. A whole day of autonomous operation even with so many new features.",
+        "characteristics": {
+          "Color": "Silver",
+          "Version of the operating system": "iOS 16",
+          "Size": "147.5 x 71.5 x 7.85 мм",
+          "NFC": "Exist",
+          "Bluetooth": "5.3",
+          "GPS": "GPS, ГЛОНАСС, BEIDOU, GALILEO, QZSS",
+          "Wi-Fi": "Wi-Fi 802.11ax",
+          "Video processor": "Apple GPU (5-core graphics)",
+          "Battery": "3200 mAh"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "price": "2 580 000",
+      "category": "tv boxes",
+      "images": [
+        "https://olcha.uz/image/700x700/products/2018-04-27/apple-tv-32gb-2972-0.jpg",
+        "https://olcha.uz/image/700x700/products/2018-04-27/apple-tv-32gb-2972-1.jpg",
+        "https://olcha.uz/image/700x700/products/2018-04-27/apple-tv-32gb-2972-2.jpg  "
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 107
+      },
+      "ru": {
+        "title": "Медиаплеер Apple TV, 32GB",
+        "description": "Медиаплеер Apple TV 4K – отличный прибор для потокового воспроизведения контента, для чего требуется подключение к телевизору, поддерживающему такую же функцию. Модель оборудована встроенным модулем Wi-Fi, а также поддерживает сетевой порт со скоростью до 1000 Мбит/с. Медиаплеер поддерживает воспроизведение 3D видео, что позволит вам в кругу семьи устраивать полноценные киносеансы. Apple TV 4K поддерживает воспроизведение в формате 2160p 4K UHD. Медиаплеер работает на чипсете A10X Fusion, используя для зарядки разъем Lightning.",
+        "characteristics": {
+          "Тип устройства": "Медиаплеер",
+          "Вес": "425 g",
+          "Операционная система": "IOS",
+          "Размеры": "98x35x98 mm",
+          "Пульт": "Есть",
+          "Выходы": "HDMI 1.4 3",
+          "Интерфейсы": "10 / 100BASE-T Ethernet",
+          "Графические файлы": "HEVC SDR до 1080p, 30 fps, Main / Main 10",
+          "Аудиофайлы": "HE-AAC (V1), AAC,AAC (из iTunes Store)"
+        }
+      },
+      "uz": {
+        "title": "Apple TV, 32GB",
+        "description": "Apple TV 4K media pleer kontentni oqimlash uchun ajoyib qurilma bo'lib, u bir xil funktsiyani qo'llab-quvvatlaydigan televizorga ulanishni talab qiladi. Model o'rnatilgan Wi-Fi moduli bilan jihozlangan, shuningdek, 1000 Mbit / s gacha tezlikda tarmoq portini qo'llab-quvvatlaydi. Media pleer 3D video tinglashni qo'llab-quvvatlaydi, bu sizga oilangiz bilan to'liq kinoshoularni tashkil qilish imkonini beradi. Apple TV 4K 2160p 4K UHD ijrosini qo‘llab-quvvatlaydi. Media pleer zaryadlash uchun Lightning ulagichidan foydalangan holda A10X Fusion chipsetida ishlaydi.",
+        "characteristics": {
+          "Qurilma turi": "Mediapleer",
+          "Og’irligi": "425 g",
+          "Operasion tizim": "IOS",
+          "Olchamlari": "98x35x98 mm",
+          "Pult": "Есть",
+          "Chiqishi": "HDMI 1.4 3",
+          "Interfeysi": "10 / 100BASE-T Ethernet",
+          "Grafik fayllar": "HEVC SDR до 1080p, 30 fps, Main / Main 10",
+          "Ovozli fayllar": "HE-AAC (V1), AAC,AAC (из iTunes Store)"
+        }
+      },
+      "en": {
+        "title": "Apple TV, 32GB",
+        "description": "The Media Player Apple TV 4K is an excellent device for streaming content, which requires connecting to a TV that supports the same function. The model is equipped with a built-in WiFi module and also supports a network port with speeds up to 1000 Mbit/s. The media player supports 3D video playback, which will allow you to have a full-fledged film session with your family. Apple TV 4K supports playback in 2160p 4K UHD format. The media player runs on the A10X Fusion chipset using the Lightning connector for charging.",
+        "characteristics": {
+          "Device type": "Media player",
+          "Weight": "425 g",
+          "Operating system": "IOS",
+          "Size": "98x35x98 mm",
+          "Remote control": "Exist",
+          "Ways out": "HDMI 1.4 3",
+          "Interfaces": "10 / 100BASE-T Ethernet",
+          "Graphics file": "HEVC SDR до 1080p, 30 fps, Main / Main 10",
+          "Audio files": "HE-AAC (V1), AAC,AAC (из iTunes Store)"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "price": "2 572 000",
+      "category": "smart watches",
+      "images": [
+        "https://olcha.uz/image/700x700/products/2022-10-18/umnye-chasy-samsung-galaxy-watch5-157347-0.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-10-18/umnye-chasy-samsung-galaxy-watch5-44-mm-grafitovyy-chernyy-157353-0.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-10-18/umnye-chasy-samsung-galaxy-watch5-44-mm-serebristyy-157354-0.jpeg",
+        "https://olcha.uz/image/700x700/products/yhfVv8wsf0IbNDA6kooNrRJuoKpVwvGfxfbOeIYFtTw65qXqWnp9TJpB9dZQ.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 1507
+      },
+      "ru": {
+        "title": "Умные часы Samsung Galaxy Watch5",
+        "description": "Познакомьтесь с вашим новым тренером по сну Advanced Sleep Coaching анализирует модели сна и создает 5-недельную программу с полезными советами и контрольными списками для улучшения привычек сна. Биоактивный датчик IC Усовершенствованный изогнутый датчик приближается к вашей коже для более точных показаний частоты сердечных сокращений и состояния здоровья.Датчик анализа биоэлектрического импеданса (BIA) Получите всю статистику, чтобы быть лучшим. Датчик BIA считывает жировые отложения, скелетные мышцы, воду в организме, скорость основного обмена и многое другое.Автоматическое отслеживание тренировок автоматически распознает многие популярные виды деятельности, такие как бег и плавание, всего за несколько минут. Вы также можете вручную отслеживать более 90 упражнений, от интенсивных тренировок HIIT до расслабляющих занятий йогой.Заряжено до 45% в 30мин Оставайтесь под напряжением в самые загруженные дни благодаря улучшенному аккумулятору и быстрой зарядке.Стекло создано для того, чтобы быть активным Стекло из сапфирового стекла в 1,6 раза прочнее , чтобы выдержать испытание самыми тяжелыми днями.",
+        "characteristics": {
+          "Емкость аккумулятора": "410 мА*ч",
+          "Беспроводная зарядка": "Есть",
+          "Вес": "33.5 г",
+          "Объем встроенной памяти": "16 Гб",
+          "Объем оперативной памяти": "1.50 Гб",
+          "Материал корпуса": "Алюминий",
+          "Bluetooth": "Bluetooth 5.2",
+          "WiFi ": "Есть",
+          "NFC": "Есть",
+          "Разрешение экрана": "450x450"
+        }
+      },
+      "uz": {
+        "title": "Aqlli soat Samsung Galaxy Watch5 44 mm Binafsha rang",
+        "description": "Yangi uyqu murabbiyingiz bilan tanishing Advanced Sleep Coaching uyqu tartibini tahlil qiladi va uyqu odatlaringizni yaxshilash uchun foydali maslahatlar va nazorat roʻyxatlari bilan 5 haftalik dastur yaratadi.Bioaktiv sensor IC Ilg'or kavisli sensori yurak urishi va sog'lig'ini aniqroq ko'rsatish uchun teringizga yaqinlashadi.Bioelektrik impedans tahlili (BIA) sensori Eng yaxshi bo'lish uchun barcha statistikani oling. BIA sensori tana yog'i, skelet mushaklari, tana suvi, bazal metabolizm tezligi va boshqalarni o'qiydi. Mashqni avtomatik kuzatish bir necha daqiqada yugurish va suzish kabi ko'plab mashhur mashg'ulotlarni avtomatik ravishda taniydi. Shuningdek, siz intensiv HIIT mashqlaridan tortib, tinchlantiruvchi yoga seanslarigacha bo'lgan 90 dan ortiq mashqlarni qo'lda kuzatishingiz mumkin. 30 daqiqada 45% gacha quvvatlanadi Yaxshilangan batareya va tez zaryadlash bilan eng gavjum kunlarda quvvatli bo‘ling. Shisha faol bo'lish uchun mo'ljallangan  Safir kristalli shisha eng og'ir kunlar sinoviga dosh berish uchun 1,6 barobar kuchliroqdir.",
+        "characteristics": {
+          "Batareya quvvati": "410 mA*ch",
+          "Simsiz zaryadlovchi": "Mavjud",
+          "Vazn": "33.5 g",
+          "O‘rnatilgan xotira": "16 Gb",
+          "Operativ xotira": "1.50 Gb",
+          "Korpus materiali": "Alyumin",
+          "Bluetooth": "Bluetooth 5.2",
+          "WiFi ": "Mavjud",
+          "NFC": "Mavjud",
+          "Ekran o‘lchami": "450x450"
+        }
+      },
+      "en": {
+        "title": "Samsung Galaxy Watch5 Smartwatch",
+        "description": "Meet your new sleep coach Advanced Sleep Coaching analyzes sleep patterns and creates a 5-week program with helpful tips and checklists to improve sleep habits. Bioactive IC sensor Advanced curved sensor is approaching your skin for more accurate indications of heart rate and health condition.Bioelectric impedance analysis sensor (BIA) Get all the stats to be the best. The BIA sensor reads fat deposits, skeletal muscles, water in the body, the rate of basic metabolism and much more. Automatic training tracking automatically recognizes many popular activities such as running and swimming in just a few minutes. You can also manually track over 90 exercises, from intense HIIT workouts to relaxing yoga exercises.",
+        "characteristics": {
+          "Battery": "410 410 mA*h",
+          "Wireless charging": "Exist",
+          "Weight": "33.5 g",
+          "Built-in memory capacity": "16 GB",
+          "Ram capacity": "1.50 GB",
+          "Body material": "Aluminium",
+          "Bluetooth": "Bluetooth 5.2",
+          "Wi-Fi ": "Exist",
+          "NFC": "Exist",
+          "Screen resolution": "450x450"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "price": "2 572 000",
+      "category": "smart watches",
+      "images": [
+        "https://olcha.uz/image/700x700/products/2022-09-14/umnye-chasy-xiaomi-mi-band-7-pro-118299-0.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-09-14/umnye-chasy-xiaomi-mi-band-7-pro-118299-1.jpeg",
+        "https://olcha.uz/image/700x700/products/2022-09-14/umnye-chasy-xiaomi-mi-band-7-pro-chernyy-118300-0.jpeg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 1507
+      },
+      "ru": {
+        "title": "Умные часы Samsung Galaxy Watch5",
+        "description": "Познакомьтесь с вашим новым тренером по сну Advanced Sleep Coaching анализирует модели сна и создает 5-недельную программу с полезными советами и контрольными списками для улучшения привычек сна. Биоактивный датчик IC Усовершенствованный изогнутый датчик приближается к вашей коже для более точных показаний частоты сердечных сокращений и состояния здоровья.Датчик анализа биоэлектрического импеданса (BIA) Получите всю статистику, чтобы быть лучшим. Датчик BIA считывает жировые отложения, скелетные мышцы, воду в организме, скорость основного обмена и многое другое.Автоматическое отслеживание тренировок автоматически распознает многие популярные виды деятельности, такие как бег и плавание, всего за несколько минут. Вы также можете вручную отслеживать более 90 упражнений, от интенсивных тренировок HIIT до расслабляющих занятий йогой.Заряжено до 45% в 30мин Оставайтесь под напряжением в самые загруженные дни благодаря улучшенному аккумулятору и быстрой зарядке.Стекло создано для того, чтобы быть активным Стекло из сапфирового стекла в 1,6 раза прочнее , чтобы выдержать испытание самыми тяжелыми днями.",
+        "characteristics": {
+          "Емкость аккумулятора": "410 мА*ч",
+          "Беспроводная зарядка": "Есть",
+          "Вес": "33.5 г",
+          "Объем встроенной памяти": "16 Гб",
+          "Объем оперативной памяти": "1.50 Гб",
+          "Материал корпуса": "Алюминий",
+          "Bluetooth": "Bluetooth 5.2",
+          "WiFi ": "Есть",
+          "NFC": "Есть",
+          "Разрешение экрана": "450x450"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "price": "3 625 000",
+      "category": "headphones",
+      "images": [
+        "https://olcha.uz/image/700x700/products/2021-12-16/igrovoy-naushnik-asus-rog-theta-71-29629-0.png",
+        "https://olcha.uz/image/700x700/products/2021-12-16/igrovoy-naushnik-asus-rog-theta-71-29629-3.png",
+        "https://olcha.uz/image/700x700/products/2021-12-16/igrovoy-naushnik-asus-rog-theta-71-29629-7.png",
+        "https://olcha.uz/image/700x700/products/2021-12-16/igrovoy-naushnik-asus-rog-theta-71-29629-8.png"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 707
+      },
+      "ru": {
+        "title": "Игровой наушник Asus Rog Theta 7.1",
+        "description": "Проводная гарнитура с полноразмерными наушниками, закрытая, регулятор громкости, микрофон с шумоподавлением, вес 650 г, разъем USB, кабель 1.2 м",
+        "characteristics": {
+          "Тип": "Динамический",
+          "Микрофон с шумоподавлением": "Есть",
+          "Крепление микрофона": "подвижное",
+          "Частота (Hz)": "100 - 12000 Гц",
+          "Чувствительность": "-40 дБ",
+          "Регулятор громкости": "Есть",
+          "Диаметр мембраны": "40 мм",
+          "Тип подключения": "Проводное",
+          "Вес": "650г",
+          "Длина шнура": "1.2м"
+        }
+      },
+      "uz": {
+        "title": "O‘yin uchun naushnik Asus Rog Theta 7.1",
+        "description": "To'liq o'lchamli minigarniturali simli eshitish vositasi, yopiq, ovoz balandligini boshqarish, shovqinni bekor qiluvchi mikrofon, og'irligi 650 g, USB ulagichi, 1,2 m kabel",
+        "characteristics": {
+          "Turi": "Dinamik",
+          "Ovoz bosimli mikrofon": "Mavjud",
+          "Mikrofon moslashuvligi": "Harakatchan",
+          "Chastota (Hz)": "100 - 12000 Grs",
+          "Sezuvchanligi": "-40 dB",
+          "Tovush balandlik regulyatori": "Mavjud",
+          "Membrana o‘lchami": "40 mm",
+          "Ulanishi": "Simlik",
+          "Og‘irligi": "650g",
+          "Shnur uzunligi": "1.2m"
+        }
+      },
+      "en": {
+        "title": "",
+        "description": "Wired headset with full-size headphones, closed, volume control, noise-canceling microphone, weight 650 g, USB connector, 1.2 m cable",
+        "characteristics": {
+          "Type": "Dynamic",
+          "Noise-canceling microphone": "Exist",
+          "Microphone mount": "Movable",
+          "Frequency (Hz)": "100 - 12000 Hz",
+          "Sensitivity": "-40 dB",
+          "Volume control": "Exist",
+          "Diameter of the membrane ": "40 mm",
+          "Connection type": "Wired",
+          "Weight": "650g",
+          "Cord Length": "1.2m"
+        }
+      }
+    }
+  ]
+}
