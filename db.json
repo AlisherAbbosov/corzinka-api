@@ -9,7 +9,7 @@
         "https://olcha.uz/image/700x700/products/2021-01-28/noutbuk-apple-macbook-pro-13-m1-2020-8gb256gb-grey-21001-1.jpeg"
       ],
       "rating": {
-        "rate": 5.0,
+        "rate": 4.9,
         "count": 203
       },
       "ru": {
@@ -87,7 +87,7 @@
       "price": "13 767 901",
       "category": "smartphone",
       "rating": {
-        "rate": 5.0,
+        "rate": 4.7,
         "count": 203
       },
       "images": [
@@ -153,7 +153,7 @@
         "https://olcha.uz/image/700x700/products/2018-04-27/apple-tv-32gb-2972-2.jpg  "
       ],
       "rating": {
-        "rate": 4.6,
+        "rate": 3.9,
         "count": 107
       },
       "ru": {
@@ -341,7 +341,7 @@
         "https://olcha.uz/image/700x700/products/2021-12-16/igrovoy-naushnik-asus-rog-theta-71-29629-8.png"
       ],
       "rating": {
-        "rate": 4.9,
+        "rate": 4.3,
         "count": 707
       },
       "ru": {
@@ -377,7 +377,7 @@
         }
       },
       "en": {
-        "title": "",
+        "title": "Gaming headphones Asus Rog Tytan 7.1",
         "description": "Wired headset with full-size headphones, closed, volume control, noise-canceling microphone, weight 650 g, USB connector, 1.2 m cable",
         "characteristics": {
           "Type": "Dynamic",
