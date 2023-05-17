@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "price": "15 400 000",
+      "price": 15400000,
       "isSaved": false,
       "category": "laptops",
       "images": [
@@ -85,7 +85,7 @@
     },
     {
       "id": 2,
-      "price": "13 767 901",
+      "price": 13767901,
       "isSaved": false,
       "category": "smartphone",
       "rating": {
@@ -147,7 +147,7 @@
     },
     {
       "id": 3,
-      "price": "2 580 000",
+      "price": 2580000,
       "isSaved": false,
       "category": "tv boxes",
       "images": [
@@ -207,7 +207,7 @@
     },
     {
       "id": 4,
-      "price": "2 572 000",
+      "price": 2572000,
       "isSaved": false,
       "category": "smart watches",
       "images": [
@@ -271,7 +271,7 @@
     },
     {
       "id": 5,
-      "price": "830 000",
+      "price": 830000,
       "isSaved": false,
       "category": "smart watches",
       "images": [
@@ -337,7 +337,7 @@
     },
     {
       "id": 6,
-      "price": "3 625 000",
+      "price": 3625000,
       "isSaved": false,
       "category": "headphones",
       "images": [
